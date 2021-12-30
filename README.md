@@ -1,3 +1,4 @@
+[76_82_project report.pdf](https://github.com/gagangiri05/Sentiment-Analysis-of-Tweet-data-using-Support-Vector-Machine-and-Logistic-Regression/files/7791562/76_82_project.report.pdf)
 # Sentiment-Analysis-of-Tweet-data-using-Support-Vector-Machine-and-Logistic-Regression
 
 # Introduction
